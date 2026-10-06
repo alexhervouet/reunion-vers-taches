@@ -1,0 +1,68 @@
+# Compte-rendu de réunion — Projet solaire photovoltaïque
+
+**Date :** 6 octobre 2026
+**Horaire :** 9h30 – 11h45
+**Objet :** Point d’avancement du projet de centrale solaire photovoltaïque
+**Participants :**
+
+* Claire Martin — Cheffe de projet
+* Thomas Leroy — Responsable technique
+* Sarah Bernard — Environnement
+* Nicolas Petit — Raccordement électrique
+* Julie Moreau — Achats
+* Marc Dubois — Finance
+* Antoine Robert — Travaux
+
+### Avancement général
+
+Claire ouvre la réunion en rappelant que le projet avance correctement, mais que plusieurs éléments doivent encore être précisés avant le lancement de la phase travaux. La puissance envisagée reste autour de 80 MWc, avec une mise en service actuellement envisagée pour le second semestre 2027.
+
+Thomas présente les dernières données concernant les panneaux photovoltaïques. Deux fabricants restent en compétition. Le premier propose un rendement légèrement supérieur, tandis que le second semble avoir des délais de livraison plus intéressants. Julie doit reprendre les deux offres et vérifier notamment les garanties, les délais et les conditions de livraison. Elle précise qu'elle devrait pouvoir faire un premier retour **vers le 15 octobre**.
+
+Le choix des panneaux aura également un impact sur le dimensionnement des structures. Thomas indique qu'il pourra mettre à jour les plans dès que Julie aura obtenu les caractéristiques définitives des fournisseurs.
+
+### Études environnementales
+
+Sarah présente les premiers résultats de l'étude environnementale. Les principaux enjeux concernent la biodiversité présente autour de la zone d'implantation et la gestion des eaux de ruissellement.
+
+Une étude complémentaire sur les zones humides reste nécessaire. Sarah va contacter le bureau d'études afin de connaître ses disponibilités. Elle aimerait idéalement lancer cette étude **avant la fin du mois**, pour ne pas retarder le dossier administratif.
+
+Antoine demande si les résultats de l'étude pourraient modifier l'emplacement de certaines rangées de panneaux. Sarah répond que c'est possible sur une petite partie du terrain et qu'il faudra attendre les conclusions avant de figer définitivement le plan.
+
+### Raccordement
+
+Nicolas indique que le gestionnaire de réseau a demandé plusieurs précisions sur le raccordement de la centrale. Il manque notamment une estimation plus précise de la puissance injectée selon différents scénarios de production.
+
+Thomas propose de transmettre les hypothèses techniques à Nicolas. Celui-ci pourra ensuite préparer le document demandé. Il faudrait que ces informations soient disponibles **d'ici mercredi prochain**, car Nicolas souhaite les intégrer à son prochain échange avec le gestionnaire de réseau.
+
+Le groupe discute également de l'emplacement du poste de transformation. Deux emplacements restent possibles. Le premier est plus proche du réseau existant mais nécessite davantage de travaux de terrassement.
+
+### Travaux et calendrier
+
+Antoine présente une première estimation du calendrier de construction. Les travaux de préparation du terrain pourraient commencer au printemps, sous réserve de l'obtention des autorisations.
+
+Il explique qu'il faudrait rapidement consulter plusieurs entreprises de terrassement afin d'obtenir des estimations réalistes. Julie propose de préparer une première liste de prestataires et de lancer les demandes de prix.
+
+Claire demande à Antoine de lui transmettre un planning plus détaillé **avant le 20 octobre**, notamment avec les principales étapes de terrassement, installation des structures et pose des panneaux.
+
+### Budget
+
+Marc indique que le budget actuel doit être révisé car plusieurs hypothèses ont évolué. Le coût des panneaux est notamment différent de celui utilisé dans la première estimation.
+
+Il demande à Julie de lui transmettre les offres fournisseurs dès qu'elles seront consolidées. De son côté, il prévoit de refaire le modèle financier avec trois hypothèses de prix de l'électricité.
+
+Une première version pourrait être disponible **la semaine du 19 octobre**, mais Marc précise qu'il lui faudra les derniers chiffres techniques avant de commencer.
+
+### Actions évoquées
+
+* **Julie** : comparer les offres des fabricants de panneaux et vérifier les garanties et délais.
+* **Sarah** : contacter le bureau d'études pour organiser l'étude complémentaire sur les zones humides.
+* **Thomas** : transmettre à Nicolas les hypothèses nécessaires au dossier de raccordement.
+* **Nicolas** : préparer les éléments demandés par le gestionnaire de réseau.
+* **Antoine** : établir un planning détaillé des travaux.
+* **Julie et Antoine** : identifier des entreprises de terrassement susceptibles d'intervenir sur le chantier.
+* **Marc** : mettre à jour le modèle financier avec les nouvelles hypothèses.
+
+En fin de réunion, Claire demande à chacun de signaler rapidement tout problème susceptible de modifier le calendrier ou le budget du projet.
+
+La réunion se termine à 11h45.

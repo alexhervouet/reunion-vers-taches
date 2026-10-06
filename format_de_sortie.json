@@ -1,0 +1,18 @@
+{
+  "reunion": {
+    "titre": "Point projet migration ERP",
+    "date": "2026-10-06"
+  },
+  "taches": [
+    {
+      "personne": "Marie Dupont",
+      "tache": "Envoyer le cahier des charges au fournisseur",
+      "date_limite": "2026-10-10"
+    },
+    {
+      "personne": "Paul Martin",
+      "tache": "Vérifier les droits d'accès à la base de test",
+      "date_limite": null
+    }
+  ]
+}
